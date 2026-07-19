@@ -13,7 +13,7 @@ Hi there! I am an aspiring Cybersecurity Analyst focused on system administratio
 
 ## 🔬 Hands-On Projects
 
-### 📂 [Project 1: Linux Log Parser Script]
+### 📂 [Project 1: Linux Log Parser Script](https://github.com/julioarchila290-spec/cybersecurity-portfolio/blob/main/log_parser.sh)
 * Built a custom script to automate the parsing of SSH authentication logs to detect brute-force attacks.
 * **Tools Used:** Linux, Bash, Regex
 
