@@ -13,11 +13,11 @@ Hi there! I am an aspiring Cybersecurity Analyst focused on system administratio
 
 ## 🔬 Hands-On Projects
 
-### 📂 [Project 1: Linux Log Parser Script (Coming Soon)](#)
-* **Objective:** Build a custom script to automate the parsing of SSH authentication logs to detect brute-force attacks.
+### 📂 [Project 1: Linux Log Parser Script]
+* Built a custom script to automate the parsing of SSH authentication logs to detect brute-force attacks.
 * **Tools Used:** Linux, Bash, Regex
 
-### 📂 [Project 2: Open-Source SIEM Deployment (Coming Soon)](#)
+### 📂 [Project 2: Open-Source SIEM Deployment](In Progress)
 * **Objective:** Deploy an open-source SIEM (Wazuh/ELK) in a virtual home lab environment to monitor host logs.
 * **Tools Used:** VirtualBox, Ubuntu Server, Wazuh
 
