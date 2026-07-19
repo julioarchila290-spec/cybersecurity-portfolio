@@ -24,5 +24,4 @@ Hi there! I am an aspiring Cybersecurity Analyst focused on system administratio
 ---
 
 ## 📬 Connect with Me
-* **LinkedIn:** [Your Link Here]
 * **Email:** julioarchila290@gmail.com
