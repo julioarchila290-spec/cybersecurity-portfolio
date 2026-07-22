@@ -5,7 +5,7 @@ Hi there! I am an aspiring Cybersecurity Analyst focused on system administratio
 ---
 
 ## 🛠️ Technical Skillset
-* **Operating Systems:** Linux (Ubuntu, Debian, Kali), Windows 10/11
+* **Operating Systems:** Linux (Ubuntu), Windows 10/11
 * **Scripting & Automation:** Bash, Linux Text Processing (`grep`, `awk`, `sed`)
 * **Core Concepts:** Log Analysis, SIEM Monitoring, Network Traffic Analysis, Troubleshooting
 
